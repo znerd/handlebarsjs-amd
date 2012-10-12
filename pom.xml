@@ -6,8 +6,8 @@
   <packaging>pom</packaging>
   <version>1.0.rc1.000-SNAPSHOT</version>
 
-  <name>jQuery AMD Library</name>
-  <description>jQuery with AMD wrapper</description>
+  <name>Handlebars AMD Library</name>
+  <description>Handlebars with AMD wrapper</description>
   <url>https://github.com/znerd/handlebarsjs-amd</url>
 
   <inceptionYear>2012</inceptionYear>
