@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>handlebarsjs-amd</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.rc1.000-SNAPSHOT</version>
+  <version>1.0-rc1.000-SNAPSHOT</version>
 
   <name>Handlebars AMD Library</name>
   <description>Handlebars with AMD wrapper</description>
