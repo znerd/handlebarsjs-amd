@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>handlebarsjs-amd</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-rc1.000</version>
+  <version>1.0-rc1.001-SNAPSHOT</version>
 
   <name>Handlebars.js AMD Library</name>
   <description>Handlebars.js with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/handlebarsjs-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/handlebarsjs-amd.git</developerConnection>
     <url>git@github.com:znerd/handlebarsjs-amd.git</url>
-    <tag>handlebarsjs-amd-1.0-rc1.000</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
